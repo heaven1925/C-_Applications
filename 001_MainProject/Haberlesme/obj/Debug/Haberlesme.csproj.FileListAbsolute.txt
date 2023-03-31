@@ -1,0 +1,48 @@
+C:\Users\kaan.arslan\Desktop\Haberlesme\Haberlesme\bin\Debug\Haberlesme.exe.config
+C:\Users\kaan.arslan\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.exe
+C:\Users\kaan.arslan\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.pdb
+C:\Users\kaan.arslan\Desktop\Haberlesme\Haberlesme\bin\Debug\Haberlesme.exe
+C:\Users\kaan.arslan\Desktop\Haberlesme\Haberlesme\bin\Debug\Haberlesme.pdb
+C:\Users\kaan.arslan\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.csprojResolveAssemblyReference.cache
+C:\Users\kaan.arslan\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.Form1.resources
+C:\Users\kaan.arslan\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.Properties.Resources.resources
+C:\Users\kaan.arslan\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.csproj.GenerateResource.Cache
+C:\Users\kadir.demir\Desktop\kadir abi çalışma\Haberlesme\Haberlesme\bin\Debug\Haberlesme.exe.config
+C:\Users\kadir.demir\Desktop\kadir abi çalışma\Haberlesme\Haberlesme\obj\Debug\Haberlesme.exe
+C:\Users\kadir.demir\Desktop\kadir abi çalışma\Haberlesme\Haberlesme\obj\Debug\Haberlesme.pdb
+C:\Users\bilge.kara\Desktop\Haberlesme\Haberlesme\bin\Debug\Haberlesme.exe.config
+C:\Users\bilge.kara\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.exe
+C:\Users\bilge.kara\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.pdb
+C:\Users\bilge.kara\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.csprojResolveAssemblyReference.cache
+C:\Users\bilge.kara\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.Form1.resources
+C:\Users\bilge.kara\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.Properties.Resources.resources
+C:\Users\bilge.kara\Desktop\Haberlesme\Haberlesme\obj\Debug\Haberlesme.csproj.GenerateResource.Cache
+C:\Users\bilge.kara\Desktop\Haberlesme\Haberlesme\bin\Debug\Haberlesme.exe
+C:\Users\bilge.kara\Desktop\Haberlesme\Haberlesme\bin\Debug\Haberlesme.pdb
+C:\Users\bilge.kara\Desktop\Yeni Proje Dosyalari\MCNC2021_v2\WorkSpace\Test arayuzu\Haberlesme\Haberlesme\bin\Debug\Haberlesme.exe.config
+C:\Users\bilge.kara\Desktop\Yeni Proje Dosyalari\MCNC2021_v2\WorkSpace\Test arayuzu\Haberlesme\Haberlesme\obj\Debug\Haberlesme.exe
+C:\Users\bilge.kara\Desktop\Yeni Proje Dosyalari\MCNC2021_v2\WorkSpace\Test arayuzu\Haberlesme\Haberlesme\obj\Debug\Haberlesme.pdb
+C:\Users\bilge.kara\Desktop\Yeni Proje Dosyalari\MCNC2021_v2\WorkSpace\Test arayuzu\Haberlesme\Haberlesme\bin\Debug\Haberlesme.exe
+C:\Users\bilge.kara\Desktop\Yeni Proje Dosyalari\MCNC2021_v2\WorkSpace\Test arayuzu\Haberlesme\Haberlesme\bin\Debug\Haberlesme.pdb
+C:\Users\bilge.kara\Desktop\Yeni Proje Dosyalari\MCNC2021_v2\WorkSpace\Test arayuzu\Haberlesme\Haberlesme\obj\Debug\Haberlesme.csprojResolveAssemblyReference.cache
+C:\Users\bilge.kara\Desktop\Yeni Proje Dosyalari\MCNC2021_v2\WorkSpace\Test arayuzu\Haberlesme\Haberlesme\obj\Debug\Haberlesme.Form1.resources
+C:\Users\bilge.kara\Desktop\Yeni Proje Dosyalari\MCNC2021_v2\WorkSpace\Test arayuzu\Haberlesme\Haberlesme\obj\Debug\Haberlesme.Properties.Resources.resources
+C:\Users\bilge.kara\Desktop\Yeni Proje Dosyalari\MCNC2021_v2\WorkSpace\Test arayuzu\Haberlesme\Haberlesme\obj\Debug\Haberlesme.csproj.GenerateResource.Cache
+C:\Users\atakan\Desktop\Haberlesme\bin\Debug\Haberlesme.exe.config
+C:\Users\atakan\Desktop\Haberlesme\obj\Debug\Haberlesme.exe
+C:\Users\atakan\Desktop\Haberlesme\obj\Debug\Haberlesme.pdb
+C:\Users\atakan\Desktop\Haberlesme\bin\Debug\Haberlesme.exe
+C:\Users\atakan\Desktop\Haberlesme\bin\Debug\Haberlesme.pdb
+C:\Users\atakan\Desktop\Haberlesme\obj\Debug\Haberlesme.csprojResolveAssemblyReference.cache
+C:\Users\atakan\Desktop\Haberlesme\obj\Debug\Haberlesme.Form1.resources
+C:\Users\atakan\Desktop\Haberlesme\obj\Debug\Haberlesme.Properties.Resources.resources
+C:\Users\atakan\Desktop\Haberlesme\obj\Debug\Haberlesme.csproj.GenerateResource.Cache
+C:\Users\bilge.kara\Desktop\TEZ ARAYUZ SON\Haberlesme\bin\Debug\Haberlesme.exe.config
+C:\Users\bilge.kara\Desktop\TEZ ARAYUZ SON\Haberlesme\obj\Debug\Haberlesme.exe
+C:\Users\bilge.kara\Desktop\TEZ ARAYUZ SON\Haberlesme\obj\Debug\Haberlesme.pdb
+C:\Users\bilge.kara\Desktop\TEZ ARAYUZ SON\Haberlesme\bin\Debug\Haberlesme.exe
+C:\Users\bilge.kara\Desktop\TEZ ARAYUZ SON\Haberlesme\bin\Debug\Haberlesme.pdb
+C:\Users\bilge.kara\Desktop\TEZ ARAYUZ SON\Haberlesme\obj\Debug\Haberlesme.csprojResolveAssemblyReference.cache
+C:\Users\bilge.kara\Desktop\TEZ ARAYUZ SON\Haberlesme\obj\Debug\Haberlesme.Form1.resources
+C:\Users\bilge.kara\Desktop\TEZ ARAYUZ SON\Haberlesme\obj\Debug\Haberlesme.Properties.Resources.resources
+C:\Users\bilge.kara\Desktop\TEZ ARAYUZ SON\Haberlesme\obj\Debug\Haberlesme.csproj.GenerateResource.Cache
